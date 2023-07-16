@@ -1,0 +1,25 @@
+.about {
+  text-align: left;
+  max-width: 230px;
+  margin: 33px 37px;
+}
+
+.about h1 {
+  color: #f5f5f5;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 150%; /* 24px */
+  margin-bottom: 5px;
+}
+
+.about p {
+  color: #dcdcdc;
+  font-family: Inter;
+  font-size: 10.24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 150%; /* 15.36px */
+  margin-top: 0;
+}

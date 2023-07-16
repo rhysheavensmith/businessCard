@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding-block: 100px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: "Inter", sans-serif;
+}
+
+.bizCard {
+  background-color: #1a1b21;
+  border-radius: 10px;
+}
